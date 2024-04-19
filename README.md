@@ -1,6 +1,6 @@
-# Private Test Repo for publish-public-release Github Action
+# Test Repo for publish-public-release Github Action
 
-Private Test Repo for publish-public-release Github Action.
+Test Repo for publish-public-release Github Action.
 
 ## Usage
 
