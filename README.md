@@ -13,6 +13,3 @@ Private Test Repo for publish-public-release Github Action.
     cz bump
 - push changes and tags
 
-## Development
-
-This text section and everything below should not be visible in the public README.
